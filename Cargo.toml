@@ -29,8 +29,8 @@ doctest = false
 libc = "0.2"
 libz-sys = "1.0"
 mpk = { git = "https://github.com/securesystemslab/pkru-safe-mpk-libc.git" }
-mpk_protector = { git = "https://github.com/securesystemslab/pkru-safe-mpk-protector.git" }
-pkmallocator = { git = "https://github.com/securesystemslab/pkru-safe-pkmallocator.git" }
+mpk_protector = { git = "https://github.com/securesystemslab/pkru-safe-mpk-protector.git", branch = "no-mpk" }
+pkmallocator = { git = "https://github.com/securesystemslab/pkru-safe-pkmallocator.git", branch = "no-mpk" }
 
 [build-dependencies]
 bindgen = "0.49.0"
