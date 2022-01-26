@@ -1,0 +1,7 @@
+commit 8e3c6d048449a2e47c7748eafa350f49c0b8b7bc
+Author: Leo Balter <leonardo.balter@gmail.com>
+Date:   Mon Dec 10 10:59:09 2018 -0500
+
+    Merge pull request #1987 from test262-automation/v8-test262-automation-export-07b313100e
+    
+    Import test changes from V8
